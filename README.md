@@ -5,4 +5,4 @@ Nesta maratona foi proposto a criação de uma aplicação de controle financeir
 
 Abaixo a imagem da aplicação já pronta: 
 
-<img src="/img/layout-figma.PNG>
+<img src="/img/layout-figma.PNG">
